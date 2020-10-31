@@ -10,10 +10,10 @@ this project has the aim to create a simple and useful assistant for your system
             [here](https://pyttsx3.readthedocs.io/en/latest/).
             In order to install the library:
             
-            pip install pyttsx3
+       pip install pyttsx3
             
  - SpeechRecognition: Library for performing speech recognition, with support for several engines and APIs, online
                       and offline. More info [here](https://pypi.org/project/SpeechRecognition/). 
                       In order to install the library:
  
-             pip install SpeechRecognition
+       pip install SpeechRecognition
