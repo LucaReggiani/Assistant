@@ -355,4 +355,4 @@ ehthumbs.db
 Thumbs.db
 
 # audio files
-.wav
+*.wav
