@@ -1,6 +1,6 @@
 # Assistant
 
-this project has the aim to create a simple and useful assistant for the operative system. This is tested on Linux
+This project has the aim to create a simple and useful assistant for the operative system. This is tested on Linux.
 
 ## Packages explanation:
 
